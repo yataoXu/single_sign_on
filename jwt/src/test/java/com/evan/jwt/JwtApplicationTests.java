@@ -1,10 +1,10 @@
-package com.evan.single_sign_on;
+package com.evan.jwt;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SingleSignOnApplicationTests {
+class JwtApplicationTests {
 
     @Test
     void contextLoads() {
